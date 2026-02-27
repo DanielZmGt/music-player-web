@@ -1,0 +1,7 @@
+help.txt
+help_full.txt
+.gemini/
+.env
+node_modules/
+dist/
+.DS_Store
