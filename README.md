@@ -34,7 +34,7 @@ A sleek, responsive, and functional music player web application built with mode
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/modern-music-player.git
+    git clone https://github.com/DanielZmGt/modern-music-player.git
     ```
 2.  **Open the project:**
     Simply open `index.html` in your preferred web browser. No build steps or server required!
