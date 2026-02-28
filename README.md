@@ -28,7 +28,7 @@ A sleek, responsive, and functional music player web application built with mode
 
 ## Live Demo
 
-(If you host this on GitHub Pages or similar, put the link here)
+https://danielzmgt.github.io/music-player-web/
 
 ## How to Use
 
